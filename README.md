@@ -1,13 +1,13 @@
+
 ### Hi there! I am *Manar Helmy – Data Scientist & Data Analyst* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1dLYW-qdxoXPdyiwNHpsjHMx2F3h-sMMv" alt="Project Image" width="600"/>
-</p>
+![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🧑‍💻 *Data Scientist & Data Analyst* passionate about Machine Learning, Deep Learning, and AI.
-- 🎓 *Computer Science Graduate (GPA 3.8)* from Thebes Academy.
+- 🎓 Computer Science Graduate (GPA: 3.8)
 - 🚀 I transform complex data into actionable insights using *Python, SQL, Power BI, TensorFlow, PyTorch*.
 - 💡 Interested in AI in healthcare, ML pipelines, and NLP projects.
 - 👩‍💻 Actively building projects and sharing knowledge in *Machine Learning & Data Analysis*.
