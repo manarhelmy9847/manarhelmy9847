@@ -12,15 +12,21 @@
 </div>
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🧑‍💻 *Data Scientist & Data Analyst* passionate about Machine Learning, Deep Learning, and AI.
 - 🎓 Computer Science Graduate (GPA: 3.8)
 - 🚀 I transform complex data into actionable insights using *Python, SQL, Power BI, TensorFlow, PyTorch*.
 - 💡 Interested in AI in healthcare, ML pipelines, and NLP projects.
 - 👩‍💻 Actively building projects and sharing knowledge in *Machine Learning & Data Analysis*.
-
+- 
 ---
-
+## 💼 Experience 
+- Coding Instructor @ iSchool  
+- Freelance Data Analyst @ Khamsat 
+- Machine Learning Intern @ NeuronetiX  
+- Data Analysis Intern @ NTI  
+- Data Analysis Intern @ IDSC
+---
 ### 🚀 Skills & Tools
 
 ### 💻 Programming & Analysis
@@ -53,7 +59,7 @@
 
 ---
 
-### 🎓 Certifications:
+### 🎓 Certifications
 
 - Microsoft Machine Learning Engineer – DEPI
 - Advanced Machine Learning – Coursera (Andrew Ng)
@@ -63,3 +69,11 @@
 - MySQL Data Analysis – Maven Analytics
 
 ---
+## 📫 Let's Connect
+
+I'm always open to collaborations, freelance opportunities, or just having a chat about AI and data science.  
+Feel free to reach out or check out my latest work!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manarhelmy/) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ManarHelmy) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manarhelmy9847@gmail.com)
