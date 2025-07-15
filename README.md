@@ -1,12 +1,12 @@
 <h1 align="center">
        Hi, I'm Manar Helmy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">
 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=da70d6&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=da70d6&vCenter=true&size=22">
 </div>
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="400">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="333">
 </div>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
