@@ -14,7 +14,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🧑‍💻 *Data Scientist & Data Analyst* passionate about Machine Learning, Deep Learning, and AI.
-- 🎓 Computer Science Graduate (GPA: 3.8)
+- 🎓 Bachelor’s Degree in Computer Science – Graduated with Distinction (GPA: 3.8/4.0)
 - 🚀 I transform complex data into actionable insights using *Python, SQL, Power BI, TensorFlow, PyTorch*.
 - 💡 Interested in AI in healthcare, ML pipelines, and NLP projects.
 - 👩‍💻 Actively building projects and sharing knowledge in *Machine Learning & Data Analysis*.
@@ -56,17 +56,6 @@
 ### 🧪 Notebooks & Environments
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-### 🎓 Certifications
-
-- Microsoft Machine Learning Engineer – DEPI
-- Advanced Machine Learning – Coursera (Andrew Ng)
-- AWS Machine Learning – AWS
-- Data Analysis Skills – NTI
-- Python Foundations – Maven Analytics
-- MySQL Data Analysis – Maven Analytics
 
 ---
 ## 📫 Let's Connect
