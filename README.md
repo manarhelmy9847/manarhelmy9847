@@ -18,9 +18,8 @@
 - 🚀 I transform complex data into actionable insights using *Python, SQL, Power BI, TensorFlow, PyTorch*.
 - 💡 Interested in AI in healthcare, ML pipelines, and NLP projects.
 - 👩‍💻 Actively building projects and sharing knowledge in *Machine Learning & Data Analysis*.
-- 
 ---
-## 💼 Experience 
+### 💼 Experience 
 - Coding Instructor @ iSchool  
 - Freelance Data Analyst @ Khamsat 
 - Machine Learning Intern @ NeuronetiX  
@@ -28,7 +27,6 @@
 - Data Analysis Intern @ IDSC
 ---
 ### 🚀 Skills & Tools
-
 ### 💻 Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -59,6 +57,7 @@
 
 ---
 ## 📫 Let's Connect
+
 I'm always open to collaborations, freelance opportunities, or just having a chat about AI and data science.  
 Feel free to reach out or check out my latest work!
 
